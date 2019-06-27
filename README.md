@@ -1,2 +1,2 @@
 # hello-world
-tutorail repository
+tutorial repository
